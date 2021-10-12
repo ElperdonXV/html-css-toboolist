@@ -66,3 +66,10 @@ nav{
     border-style: solid;
 }
 
+ol{
+    list-style: none;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
