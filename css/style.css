@@ -10,7 +10,7 @@ html{
 }
 
 body{
-    background-color: grey;
+    background-color:lightgrey;
 }
 
 header{
@@ -43,7 +43,9 @@ main{
 }
 
 nav{
-    padding: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 5%;
 }
 
 .b-blue{
@@ -52,13 +54,15 @@ nav{
     color: white;
     border-radius: 5px;
     border-color: lightskyblue;
+    border-style: none;
 }
 
 .b-grey{
-    padding: 10px;
+    padding: 8px;
     background-color: white;
-    color:grey;
+    color:lightgrey;
     border-radius: 5px;
-    border-color: grey;
+    border-color:lightgrey; 
+    border-style: solid;
 }
 
