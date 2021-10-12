@@ -73,6 +73,11 @@ ol{
     padding-bottom: 2%;
 }
 
+li{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 a{
     padding: 10px;
     background-color: tomato;
@@ -80,5 +85,28 @@ a{
     font-size: small;
     text-decoration: none;
     color: white;
-    content: "Editorial";
+}
+
+.editorial{
+    background-color: deepskyblue;
+}
+
+.q1-goals{
+    background-color: violet;
+}
+
+.recruiting{
+    background-color: lightgreen;
+}
+
+.mobile{
+    background-color: orange;
+}
+
+.website{
+    background-color: orchid;
+}
+
+.sales{
+    background-color: lime;
 }
