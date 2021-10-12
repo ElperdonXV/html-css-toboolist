@@ -42,14 +42,23 @@ main{
     border-radius: 4px;
 }
 
-.b-blue{
-background-color: lightskyblue;
-color: white;
-border-radius: 3px;
-border-style: hidden;
+nav{
+    padding: 2%;
 }
 
-b-grey{
+.b-blue{
+    padding: 10px;
+    background-color: lightskyblue;
+    color: white;
+    border-radius: 5px;
+    border-color: lightskyblue;
+}
 
+.b-grey{
+    padding: 10px;
+    background-color: white;
+    color:grey;
+    border-radius: 5px;
+    border-color: grey;
 }
 
