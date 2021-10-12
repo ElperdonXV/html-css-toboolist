@@ -113,3 +113,6 @@ a{
     background-color: lime;
 }
 
+form { 
+    display: inline-block;
+}
